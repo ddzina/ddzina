@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Daniil and I'm a Engineering Manager from Saint-Petersburg.</p>
+<p align="left">My name is Daniil and I'm an AI Engineering Manager from Saint-Petersburg.</p>
 
 ###
 
