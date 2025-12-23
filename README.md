@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Daniil and I'm a MLOps/Backend Engineer from Saint-Petersburg.</p>
+<p align="left">My name is Daniil and I'm a Engineering Manager from Saint-Petersburg.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Currently working at <a href="https://ainergy.ru">Ainergy</a>.<br>📚 I'm a master's student at Saint-Petersburg State University.<br>🎯 Goals: Create Jarvis, conquer the world.</p>
+<p align="left">✨ Head of Platform Department at <a href="https://ainergy.ru">Ainergy</a>.<br>📚 I'm a master's student at Saint-Petersburg State University.<br>🎯 Goals: Create Jarvis, conquer the world.</p>
 
 ###
 
